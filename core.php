@@ -15,3 +15,5 @@ function reduce($arr, $fn, $init=0) {
     }
     return $acc;
 }
+
+function filter($arr, $fn) {}
